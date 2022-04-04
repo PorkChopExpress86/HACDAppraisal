@@ -1,0 +1,9 @@
+.import-form {
+    border-color: #000000;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+p {
+    font-weight: bold;
+}
